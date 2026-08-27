@@ -1,0 +1,34 @@
+{
+  "build_command": "pnpm run build",
+  "capabilities": [],
+  "dev_command": "pnpm run dev",
+  "env_vars": {},
+  "experiments": null,
+  "git_remote": {
+    "repo_url": "https://7f0548f6b28a1758d9bf7be630d36cb4.artifacts.cloudflare.net/git/prod/5XRNJxTEjuNLAkU9CY8FY6.git",
+    "expiration": "2026-08-28T12:09:49.078Z",
+    "token": "art_v2_x_91cdc73a265b9c24b48bec1e46321a88b13ab1e1?expires=1787918989",
+    "backend": "GIT_BACKEND_ARTIFACTS"
+  },
+  "name": "controle-financeiro-incremental",
+  "path": "/home/ubuntu/controle-financeiro-incremental",
+  "port": 3000,
+  "secrets": {
+    "BUILT_IN_FORGE_API_KEY": "d6BGzUroCcQdhbXg2cziZQ",
+    "BUILT_IN_FORGE_API_URL": "https://forge.manus.ai",
+    "JWT_SECRET": "KMyDrV2giTw85N2ZWtparQ",
+    "OAUTH_SERVER_URL": "https://api.manus.im",
+    "OWNER_NAME": "André Thiago Lima Góes",
+    "OWNER_OPEN_ID": "FgiRRsfbcVTndniNRntRDL",
+    "VITE_ANALYTICS_ENDPOINT": "https://manus-analytics.com",
+    "VITE_ANALYTICS_WEBSITE_ID": "3fbb94cf-3d08-4938-9b0e-7ac334613d45",
+    "VITE_APP_ID": "5XRNJxTEjuNLAkU9CY8FY6",
+    "VITE_APP_LOGO": "",
+    "VITE_APP_TITLE": "Controle Financeiro",
+    "VITE_FRONTEND_FORGE_API_KEY": "DeGaMo7sEPn5NAfvUAitTm",
+    "VITE_FRONTEND_FORGE_API_URL": "https://forge.manus.ai",
+    "VITE_OAUTH_PORTAL_URL": "https://manus.im"
+  },
+  "template_id": "web-static",
+  "test_command": "pnpm test"
+}
